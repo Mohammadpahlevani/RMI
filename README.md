@@ -12,3 +12,12 @@ Return a rented car
 Basic login authentication
 
 Socket-based communication between server and clients
+
+## How to Run
+Run the server file first.
+
+Then run the client file.
+
+You will be prompted for a username and password (manually set in the server).
+
+After login, choose your desired service from the menu.
