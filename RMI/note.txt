@@ -1,0 +1,12 @@
+Hello!
+
+To start, run the server first, then the client.
+Then  run $pip3 install colorama. in python.
+
+User name, Password
+"Emma",	    "1111"
+"William" , "2222"
+"Sophia" ,  "3333"
+"David" ,   "4444"
+"Isabella" ,"5555"
+"Matthew" , "6666"
